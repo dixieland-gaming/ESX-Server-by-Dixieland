@@ -4,7 +4,8 @@
 # Information
 # # WIP 🔒
 # Discord
-https://discord.gg/YzsQUU46kE
+ https://discord.gg/YzsQUU46kE
+
 ![dixieland_serverpack_v3_Legacy_](https://github.com/user-attachments/assets/2b830a01-4830-4e9f-a0f2-0d5221bb7d34)
 
 # Jobs
