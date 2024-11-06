@@ -48,3 +48,6 @@ u.v.m...
 - Multicharacter System
 u.v.m...
 
+# Github Download
+"Bitte beachtet, dass ihr zusätzlich die Datenbank (SQL) sowie den Ressourcen-Ordner von [Dixieland] benötigt. 
+Diese sind nicht im GitHub-Repository enthalten, können aber im Discord heruntergeladen werden."
