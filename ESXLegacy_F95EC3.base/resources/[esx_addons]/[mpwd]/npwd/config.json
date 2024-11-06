@@ -1,0 +1,42 @@
+{
+  "PhoneAsItem": {
+    "enabled": true,
+    "exportResource": "ox_inventory",
+    "exportFunction": "newPlayer"
+  },
+  "general": {
+    "useResourceIntegration": true,
+    "toggleKey": "f1",
+    "toggleCommand": "phone",
+    "defaultLanguage": "de"
+  },
+  "profanityFilter": {
+    "enabled": true,
+    "badWords": ["esx"]
+  },
+  "database": {
+    "useIdentifierPrefix": true,
+    "playerTable": "users",
+    "identifierColumn": "identifier",
+    "identifierType": "license",
+    "profileQueries": true,
+    "phoneNumberColumn": "phone_number"
+  },
+  "debug": {
+    "level": "error",
+    "enabled": true,
+    "sentryEnabled": true
+  },
+  "images": {
+    "useWebhook": true
+  },
+  "apps": [
+    "npwd_services"
+  ],
+  "voiceMessage": {
+    "enabled": false,
+    "authorizationHeader": "PE-Secret",
+    "url": "",
+    "returnedDataIndexes": ["url"]
+  }
+}
