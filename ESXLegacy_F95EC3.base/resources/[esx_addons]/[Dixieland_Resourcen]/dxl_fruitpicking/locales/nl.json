@@ -1,0 +1,27 @@
+{
+    "notify" : {
+        "picked" : "Je hebt %s geplukt",
+        "sold" : "Je hebt je %s verkocht voor $%s",
+        "notenough" : "Je hebt geen %s.",
+        "failedSkill" : "Je bent niet geslaagd in het plukken van het fruit"
+    },
+
+    "progress" : {
+        "picking" : "Bezig met het plukken van een %s"
+    },
+
+    "textui" : {
+        "buyer" : "**[E]** Fruit Verkopen"
+    },
+
+    "target" : {
+        "buyer" : "Fruit Verkopen"
+    },
+
+    "menu" : {
+        "buyer" : "Fruit Koper",
+        "buyer_sell" : "Verkoop %s",
+        "buyer_sellall" : "Alles Verkopen",
+        "buyer_sellone" : "Verkoop 1x"
+    }
+}
